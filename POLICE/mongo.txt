@@ -1,0 +1,3 @@
+"mmongodb+srv://sanketwakshe30:<password>@cluster0.wz150.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+
+ifu9bKuoO7UvO03j
