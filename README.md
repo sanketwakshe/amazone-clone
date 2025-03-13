@@ -1,2 +1,1 @@
-"# amazone-clone" 
-"# amazone-clone" 
+"# python" 
